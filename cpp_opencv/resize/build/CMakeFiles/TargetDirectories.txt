@@ -1,0 +1,4 @@
+/home/angelhyc/opencv/cpp_opencv/resize/build/CMakeFiles/ResizeImage.dir
+/home/angelhyc/opencv/cpp_opencv/resize/build/CMakeFiles/ResizeVideo.dir
+/home/angelhyc/opencv/cpp_opencv/resize/build/CMakeFiles/edit_cache.dir
+/home/angelhyc/opencv/cpp_opencv/resize/build/CMakeFiles/rebuild_cache.dir
