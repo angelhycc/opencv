@@ -1,0 +1,4 @@
+opencv/*
+build/*
+py_opencv/env/*
+cpp_opencv/build/*
