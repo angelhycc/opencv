@@ -1,0 +1,3 @@
+/home/angelhyc/opencv/cpp_opencv/bitwise/build/CMakeFiles/bitwiseOps.dir
+/home/angelhyc/opencv/cpp_opencv/bitwise/build/CMakeFiles/edit_cache.dir
+/home/angelhyc/opencv/cpp_opencv/bitwise/build/CMakeFiles/rebuild_cache.dir
